@@ -1,0 +1,7 @@
+{
+  "name": "psir377-course-companion",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A dependency-free TED University course companion for GitHub Pages",
+  "scripts": { "test": "node scripts/check.mjs" }
+}
